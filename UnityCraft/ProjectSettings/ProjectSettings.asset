@@ -592,7 +592,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: C:\Users\HDgam\Documents\Current Files\UnityCraft\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: Unity Technologies
   metroCertificateIssuer: Unity Technologies
